@@ -13,7 +13,7 @@
 ## 5 Services y HttpClient (Día 4)
   - Postman? 
   - Crear Servicios
-  - Trabajar con el HttpClient
+  - Trabajar con el HttpClient (Observables)
   - Pagination
   
 ## 6 Pipes y Directivas de Atributo (Día 5)
